@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "real-estate-app",
-    "slug": "real-estate-app",
+    "name": "havenHub",
+    "slug": "havenHub",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
